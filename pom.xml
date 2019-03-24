@@ -12,7 +12,10 @@
 
     <modules>
         <!--  MyBatis子项目  -->
-        <module>mabatis</module>
+        <module>mybatis</module>
+
+        <!--  Mybatis+Redis子项目 -->
+        <module>mybatis-redis</module>
     </modules>
 
 </project>
